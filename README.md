@@ -22,4 +22,24 @@ The application calculates the factorial of a given number. We have exactly one 
 * three hyperlinks 
 * a copyright message
 
-By keeping the application this simple, we are increasing the likelihood of the interviewer and the candidate agreeing upon what is important. You can also reasonably expect QA to be able to verbalize their testing for such limited functionality.
+## Your assignment(s)
+
+### Find the bug(s):
+
+1. a major functional bug
+2. a data limit bug
+3. a usability bug
+4. a typo
+5. a bug to test if the QA is reading the page content
+6. a slightly weird wording
+7. a cross-browser bug
+
+### Make the report:
+
+Build an end-to-end regression test report consists of:
+1. Test case scenario.
+   1. Positive and negative test cases.
+   2. Corner case test cases.
+2. Test Result on the test cases.
+3. Recommendation.
+   
